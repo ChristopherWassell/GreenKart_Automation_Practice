@@ -1,0 +1,12 @@
+{
+  "name": "greenkart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "cypress run", 
+    "cypress:open": "cypress open" 
+  },
+  "author": "",
+  "license": "ISC"
+}
